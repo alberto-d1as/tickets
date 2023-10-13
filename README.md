@@ -1,5 +1,6 @@
 ![image](https://github.com/alberto-d1as/tickets/assets/82539821/88ab2246-b80f-460c-94e3-ce2d7cf1761f)
-![image](https://github.com/alberto-d1as/tickets/assets/82539821/6f17f158-2f88-4986-8e70-bf86bf4b9bc1)
-![image](https://github.com/alberto-d1as/tickets/assets/82539821/551d3235-7abb-475b-9dee-e5c9c58b9dff)
+![image](https://github.com/alberto-d1as/tickets/assets/82539821/97f7d74b-4d60-45c3-b002-89258c51cdf7)
+![image](https://github.com/alberto-d1as/tickets/assets/82539821/5c30d085-c04c-47db-8ff2-a0d2c00f39c4)
+
 
 In this project, we have a page where we can register, and another where we can view the registrations of tickets that have been opened with a supplier for internal control.
